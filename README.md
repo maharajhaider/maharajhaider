@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maharajhaider
-- 👀 I’m interested in data science and software engineering!
-- 🌱 I’m currently learning data structures and algoritm!
+- 👀 I’m interested in full-stack development with focus on React and Spring boot
+- 🌱 I’m currently a SDET Intern at Atimi Software Inc.
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/maharajhaider/
 
 <!---
