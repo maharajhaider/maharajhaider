@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maharajhaider
 - 👀 I’m interested in full-stack development with focus on React and Spring boot
-- 🌱 I’m currently a SDET Intern at Atimi Software Inc.
+- 🌱 I’m currently looking for a 2024 Summer Internship Opportunity
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/maharajhaider/
 
 <!---
